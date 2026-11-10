@@ -6,7 +6,7 @@
 
 **کدهای ساده و کاربردی برای کار با میکروکنترلر ESP8266**
 
-[Overview](#-overview) • [Structure](#-project-structure) • [Getting Started](#-getting-started) • [Collaborators](#-collaborators)
+[Overview](#-overview) • [Structure](#-project-structure) • [Getting Started](#-getting-started)
 
 </div>
 
@@ -79,7 +79,3 @@ Ensure you have an ESP8266 development board, an RGB sensor, and the necessary c
 Search for your Telegram bot in the Telegram app and start a chat. Use the Telegram bot commands to control the ESP8266 functions.
 
 <br>
-
-## 🤝 Collaborators
-
-<!-- Add collaborators here -->
