@@ -4,8 +4,6 @@
 
 # ⚙️ ESP8266 Controller
 
-**کدهای ساده و کاربردی برای کار با میکروکنترلر ESP8266**
-
 [Overview](#-overview) • [Structure](#-project-structure) • [Getting Started](#-getting-started)
 
 </div>
